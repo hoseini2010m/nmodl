@@ -1,0 +1,28 @@
+var classnmodl_1_1ast_1_1_suffix =
+[
+    [ "Suffix", "classnmodl_1_1ast_1_1_suffix.html#a75b8ff998a127bdc3ac21793760f58dc", null ],
+    [ "Suffix", "classnmodl_1_1ast_1_1_suffix.html#af968f1cf43dfdbfd7361a68fa3acb128", null ],
+    [ "Suffix", "classnmodl_1_1ast_1_1_suffix.html#a3533ec1c021e2591ed49ba928ac8422a", null ],
+    [ "~Suffix", "classnmodl_1_1ast_1_1_suffix.html#acdf3b6834958b17f77afe8dbb19e3369", null ],
+    [ "accept", "classnmodl_1_1ast_1_1_suffix.html#a7ea45f3672eab37276fc1a805a9ade1f", null ],
+    [ "clone", "classnmodl_1_1ast_1_1_suffix.html#aca6d0b241632a459aa0d1f998bbf974a", null ],
+    [ "get_name", "classnmodl_1_1ast_1_1_suffix.html#a2c1dbc559f4c03c9cc26e05e11629a6e", null ],
+    [ "get_node_name", "classnmodl_1_1ast_1_1_suffix.html#a0d7e1f353ce9a8f84ea02c0b91c29bd6", null ],
+    [ "get_node_type", "classnmodl_1_1ast_1_1_suffix.html#a083cce4ef6fc4f1bd69d512c53c0947b", null ],
+    [ "get_node_type_name", "classnmodl_1_1ast_1_1_suffix.html#a35c5c57abe6325a3a5d6d543ef5ec8db", null ],
+    [ "get_shared_ptr", "classnmodl_1_1ast_1_1_suffix.html#a4cbcb169137f34917d3daa87b35636c4", null ],
+    [ "get_shared_ptr", "classnmodl_1_1ast_1_1_suffix.html#a51169985fea67e675bf1c69d525fadd8", null ],
+    [ "get_token", "classnmodl_1_1ast_1_1_suffix.html#a35080a867b53edcafae039b7ffa459c7", null ],
+    [ "get_type", "classnmodl_1_1ast_1_1_suffix.html#adb29ffdeb0b9f4a0956a9c36075a0855", null ],
+    [ "is_suffix", "classnmodl_1_1ast_1_1_suffix.html#a4e87326f60c0b62da88e55bf0227bcea", null ],
+    [ "set_name", "classnmodl_1_1ast_1_1_suffix.html#a2106b98218c25fc802ee8abc0b9fe201", null ],
+    [ "set_name", "classnmodl_1_1ast_1_1_suffix.html#aa3e78f00ceb5be65b167f71ec1b41610", null ],
+    [ "set_parent_in_children", "classnmodl_1_1ast_1_1_suffix.html#ad0c8e26755c4dd7d18bd2a40c024d6d7", null ],
+    [ "set_token", "classnmodl_1_1ast_1_1_suffix.html#accf34014605140d3d181770bbab18c64", null ],
+    [ "set_type", "classnmodl_1_1ast_1_1_suffix.html#a142550d15d66be67a3af6662ab824b9b", null ],
+    [ "set_type", "classnmodl_1_1ast_1_1_suffix.html#ac40c856ad58d5661abeb10bd06984188", null ],
+    [ "visit_children", "classnmodl_1_1ast_1_1_suffix.html#a5e835bba1b5b5b72f3786015cf429d42", null ],
+    [ "name", "classnmodl_1_1ast_1_1_suffix.html#af8429d0c345eeee78b83c6192128d22f", null ],
+    [ "token", "classnmodl_1_1ast_1_1_suffix.html#a68a2a39a92cd34d55bb937986bfab0ea", null ],
+    [ "type", "classnmodl_1_1ast_1_1_suffix.html#abb2d32a53cfa7a5ab9a6adb27e24b122", null ]
+];
